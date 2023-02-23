@@ -1,0 +1,12 @@
+.header{
+    margin-left: 33%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(84, 19, 19);
+}
+
+.list{
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 5px;
+}
